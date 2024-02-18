@@ -1,4 +1,5 @@
 #   L e a r n G i t 
+Checking conflicts-1
 checking conflict-3
 Third commit
 I am here-9
@@ -18,6 +19,7 @@ feb 17th last change
 Seventh commit megha
 HELLO
 Feb 18th change
+checking conflicts-2
 checking conflict-4
 
 HELLO
